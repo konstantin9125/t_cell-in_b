@@ -1,0 +1,59 @@
+        div{
+            outline:2px solid black;
+            
+            
+        }
+
+        .wrapper{
+            width: 600px;
+            margin: 0 auto;
+            font-size: 0;
+        }
+
+        .div_{
+            font-size: 20px;
+        }
+
+        .t_cell{
+            display: table-cell;
+            width: 150px;
+            font-size: 20px;
+        }
+
+        .t_cell2{
+            display: table-cell;
+            width:300px;
+            font-size:20px;
+        }
+
+        .t_cell3{
+            display: table-cell;
+            width:450px;
+            font-size:20px;
+        }
+        .t_cell4{
+            display: table-cell;
+            width: 225px;
+            font-size: 20px;
+        }
+        .in_b{
+            display: inline-block;
+            width: 150px;
+            font-size: 20px;
+        }
+        .in_b2{
+            display: inline-block;
+            width: 300px;
+            font-size: 20px;
+        }
+        .in_b3{
+            display: inline-block;
+            width: 450px;
+            font-size: 20px;
+        }
+        .in_b4{
+            display: inline-block;
+            width: 224px;
+            font-size: 20px;
+        }
+        
